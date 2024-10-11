@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main(){
+    char x,B,N,B
+    printf("CUSTOMER ID"%c/n",X);
+    scanf("%c",X)
+    printf("CUSTOMER NAME"%c/n",N);
+    scanf("%c",N)
+    printf("UNITS consumed"%c/n",B);
+    scanf("%c",B)
+
+    if(B<=199){B*1.2}
+    else if(B<=400){B*1.5}
+    else if(B<=600){B*1.8}
+     else if(B>600){B*2}
+
+     printf(B)
+     if("B<400"){T A=B*0.15}
+     if("B>100<400"){T A=B}
+
+     printf("T A")
+     RETUN 0,
+}
